@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A. Mjeks\\Pictures\\NewApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj": {}
+    "C:\\Users\\A. Mjeks\\Pictures\\VehicleSalesApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A. Mjeks\\Pictures\\NewApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj": {
+    "C:\\Users\\A. Mjeks\\Pictures\\VehicleSalesApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A. Mjeks\\Pictures\\NewApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj",
+        "projectUniqueName": "C:\\Users\\A. Mjeks\\Pictures\\VehicleSalesApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj",
         "projectName": "TrackVehicleSalesApp",
-        "projectPath": "C:\\Users\\A. Mjeks\\Pictures\\NewApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj",
+        "projectPath": "C:\\Users\\A. Mjeks\\Pictures\\VehicleSalesApp\\TrackVehicleSalesApp\\TrackVehicleSalesApp.csproj",
         "packagesPath": "C:\\Users\\A. Mjeks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A. Mjeks\\Pictures\\NewApp\\TrackVehicleSalesApp\\obj\\",
+        "outputPath": "C:\\Users\\A. Mjeks\\Pictures\\VehicleSalesApp\\TrackVehicleSalesApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A. Mjeks\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XyKuWtoiKil8NbqCIlHovzAqNJgMyqzZ833zFR0H0hv/KIUsAdnfkpUGuXeZ4omp+G6wqqjFbL/AkOG4ekwBtA==",
+  "dgSpecHash": "APmVLI0LrkWwoLjBVRGQw7PNbS1Wa18h+Gjk9OsS6IwjQmubOG7Cpz/KsFKrL4uwUY5vBBMNRqHPsWJVKFJAGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A. Mjeks\\Pictures\\NewApp\\TrackVehicleSalesAppTests\\TrackVehicleSalesAppTests.csproj",
+  "projectFilePath": "C:\\Users\\A. Mjeks\\Pictures\\VehicleSalesApp\\TrackVehicleSalesAppTests\\TrackVehicleSalesAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A. Mjeks\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\A. Mjeks\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
